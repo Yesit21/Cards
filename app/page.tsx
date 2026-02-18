@@ -61,7 +61,7 @@ export default function Home() {
         <div className="relative bg-white p-2 rounded-[2.5rem] shadow-2xl">
           <div className="relative h-[580px] rounded-[2.2rem] overflow-hidden bg-white">
             {/* Imagen */}
-            <div className="relative h-[300px] rounded-[2rem] overflow-hidden mx-3 mt-3">
+            <div className="relative h-[300px] rounded-[2rem] overflow-hidden">
               <Image
                 src="https://images.pexels.com/photos/208745/pexels-photo-208745.jpeg?auto=compress&cs=tinysrgb&w=800"
                 alt="Golden Gate Bridge San Francisco"
